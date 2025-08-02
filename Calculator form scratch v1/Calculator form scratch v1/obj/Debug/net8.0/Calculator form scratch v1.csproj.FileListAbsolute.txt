@@ -1,0 +1,14 @@
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\bin\Debug\net8.0\Calculator form scratch v1.exe
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\bin\Debug\net8.0\Calculator form scratch v1.deps.json
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\bin\Debug\net8.0\Calculator form scratch v1.runtimeconfig.json
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\bin\Debug\net8.0\Calculator form scratch v1.dll
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\bin\Debug\net8.0\Calculator form scratch v1.pdb
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.AssemblyInfoInputs.cache
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.AssemblyInfo.cs
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.csproj.CoreCompileInputs.cache
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.dll
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\refint\Calculator form scratch v1.dll
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.pdb
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\Calculator form scratch v1.genruntimeconfig.cache
+C:\dotnet\Calculator form scratch v1\Calculator form scratch v1\obj\Debug\net8.0\ref\Calculator form scratch v1.dll
